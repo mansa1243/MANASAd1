@@ -1,1 +1,1 @@
-print{"hello world"}
+print("gm karnataka")
